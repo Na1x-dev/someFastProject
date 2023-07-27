@@ -1,0 +1,1 @@
+[click](https://na1x-dev.github.io/someFastProject/mainPage/index.html)
